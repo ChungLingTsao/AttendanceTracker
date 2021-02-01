@@ -1,7 +1,4 @@
-## Attendance Application (IT5736: Final Assessment)
-* [Assessment Requirements](#technologies)
-* [Summary](#general-info)
-* [Setup](#setup)
+# Attendance Application (IT5736: Final Assessment)
 
 ## Assessment Requirements
 The assessment required us to pick a problem and design the Windows Form application to solve the selected problem. 
