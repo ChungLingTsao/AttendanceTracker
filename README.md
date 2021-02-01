@@ -14,7 +14,7 @@ This application can record each student session by logging their start time and
 The procedure to sign in and out will be performed by the students. 
 The steps required for a student will be: search for their name, select their name, press sign in/out, and hit the optional confirmation dialog.
 ![Imgur Image](https://i.imgur.com/HGKeKvC.png)
-![Imgur Image](https://i.imgur.com/FPoaUkb.png)
+![Imgur Image](https://i.imgur.com/B93F5uA.png)
 
 The application has been designed to sign in/out a student with the minimal amount of interaction as possible. Since students will be interacting with this at least twice a day, the number of actions required needs to be kept at a minimum. Hence, an auto confirmation dialog was implemented to reduce an action.
 The application was designed with student interaction in mind because tutors often are too busy to keep a record of when students arrive and leave.
